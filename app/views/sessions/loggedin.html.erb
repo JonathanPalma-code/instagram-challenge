@@ -1,0 +1,2 @@
+<h1>Welcome to Instagram <%= current_user.username + "!" %></h1><br>
+<%= link_to "Logout", "/sessions/#{current_user.id}", method: :delete %>
