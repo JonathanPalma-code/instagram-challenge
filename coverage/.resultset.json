@@ -319,6 +319,9 @@
       ],
       "/Users/student/Desktop/Jonathan/instagram-challenge/app/controllers/sessions_controller.rb": [
         1,
+        null,
+        1,
+        null,
         1,
         null,
         null,
@@ -350,13 +353,18 @@
         null,
         1,
         1,
+        1,
         null,
         1,
-        8,
+        15,
         null,
         null,
         1,
-        0,
+        7,
+        null,
+        null,
+        1,
+        7,
         null,
         null
       ],
@@ -369,6 +377,9 @@
       ],
       "/Users/student/Desktop/Jonathan/instagram-challenge/app/controllers/users_controller.rb": [
         1,
+        null,
+        1,
+        null,
         1,
         3,
         null,
@@ -377,6 +388,99 @@
         3,
         3,
         3,
+        null,
+        null
+      ],
+      "/Users/student/Desktop/Jonathan/instagram-challenge/spec/features/sessions/create.html.erb_spec.rb": [
+        1
+      ],
+      "/Users/student/Desktop/Jonathan/instagram-challenge/spec/features/sessions/log_out.html.erb_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/student/Desktop/Jonathan/instagram-challenge/spec/features/web_helpers.rb": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        null,
+        2,
+        null
+      ],
+      "/Users/student/Desktop/Jonathan/instagram-challenge/spec/features/sessions/login.html.erb_spec.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/student/Desktop/Jonathan/instagram-challenge/spec/features/sessions/new.html.erb_spec.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/student/Desktop/Jonathan/instagram-challenge/spec/features/sessions/url_restrictions.html.erb_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/student/Desktop/Jonathan/instagram-challenge/spec/features/sessions/welcome.html.erb_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/student/Desktop/Jonathan/instagram-challenge/spec/features/users/create.html.erb_spec.rb": [
+        1
+      ],
+      "/Users/student/Desktop/Jonathan/instagram-challenge/spec/features/users/new.html.erb_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
         null,
         null
       ],
@@ -388,94 +492,6 @@
       ],
       "/Users/student/Desktop/Jonathan/instagram-challenge/spec/models/user_spec.rb": [
         1
-      ],
-      "/Users/student/Desktop/Jonathan/instagram-challenge/spec/views/root_path_spec.rb": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        null,
-        null
-      ],
-      "/Users/student/Desktop/Jonathan/instagram-challenge/spec/views/sessions/create.html.erb_spec.rb": [
-        1
-      ],
-      "/Users/student/Desktop/Jonathan/instagram-challenge/spec/views/sessions/log_out.html.erb_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        1,
-        1,
-        1,
-        null,
-        null
-      ],
-      "/Users/student/Desktop/Jonathan/instagram-challenge/spec/views/web_helpers.rb": [
-        1,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        null,
-        2,
-        null
-      ],
-      "/Users/student/Desktop/Jonathan/instagram-challenge/spec/views/sessions/login.html.erb_spec.rb": [
-        1,
-        1,
-        null,
-        1,
-        1,
-        1,
-        1,
-        null,
-        null
-      ],
-      "/Users/student/Desktop/Jonathan/instagram-challenge/spec/views/sessions/new.html.erb_spec.rb": [
-        1,
-        1,
-        null,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        null,
-        null
-      ],
-      "/Users/student/Desktop/Jonathan/instagram-challenge/spec/views/sessions/welcome.html.erb_spec.rb": [
-        1
-      ],
-      "/Users/student/Desktop/Jonathan/instagram-challenge/spec/views/users/create.html.erb_spec.rb": [
-        1
-      ],
-      "/Users/student/Desktop/Jonathan/instagram-challenge/spec/views/users/new.html.erb_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        null,
-        1,
-        null,
-        1,
-        null,
-        null
       ],
       "/Users/student/Desktop/Jonathan/instagram-challenge/app/models/user.rb": [
         1,
@@ -490,6 +506,6 @@
         null
       ]
     },
-    "timestamp": 1579556207
+    "timestamp": 1579558954
   }
 }

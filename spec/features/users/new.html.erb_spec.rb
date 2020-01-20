@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe "users/new.html.erb", type: :view do
+RSpec.feature "users/new.html.erb", type: :feature do
   scenario "a user can sign up" do 
     visit '/'
     click_on "Sign Up"

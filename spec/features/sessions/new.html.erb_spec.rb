@@ -1,8 +1,8 @@
 require 'rails_helper'
 require_relative '../web_helpers'
 
-RSpec.describe "sessions/new.html.erb", type: :view do
-  scenario "a user can sign up" do 
+RSpec.feature "sessions/new.html.erb", type: :feature do
+  scenario "a user can login" do 
     sign_up
     click_on 'Logout'
     click_on 'Login'
